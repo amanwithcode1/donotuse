@@ -1,6 +1,9 @@
-#Liability Disclaimer:
-To the maximum extent permitted by applicable law, I and/or affiliates whom this repo is sourced and or submitted content to this repo, shall not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenue, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
+To the maximum extent permitted by applicable law, I and/or any affiliates associated with this resource shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits, revenue, data, or other intangible losses, resulting from:
 
-👉 (i) your access to this resource and/or inability to access this resource; 👉 (ii) any conduct or content of any third party referenced by this resource, including, any offensive or illegal conduct or other users or third parties; 👉 (iii) any content obtained from this resource or any of its resources
+👉 (i) Your access to, or inability to access, this resource;
+👉 (ii) Any conduct, content, or third-party actions referenced by this resource, including but not limited to offensive, illegal, or harmful actions from users or third parties;
+👉 (iii) Any content obtained from this resource or any of its related materials.
 
-Be Cool😊
+By using this resource, you agree to do so at your own risk. It is your responsibility to ensure any actions taken with this resource comply with applicable laws, and you accept full responsibility for any consequences that may arise.
+
+Stay safe, stay responsible.
